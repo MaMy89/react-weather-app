@@ -9,7 +9,11 @@ export default function App() {
         <Weather />
         <footer>
           This project is coded by Mari Myhrer and is open-sourced on{" "}
-          <a href="https://github.com/MaMy89/react-weather-app" target="_blank">
+          <a
+            href="https://github.com/MaMy89/react-weather-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>
         </footer>
